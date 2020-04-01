@@ -2,20 +2,15 @@
   <img src="./frontend/src/assets/logo.svg" height="100px" alt="Be the hero"/>
 </div>
 
-<h3 align="center">
-  Aplicação completa para conectar Ongs que precisam de ajuda a usuários dispostos a ajudar
-</h3>
-
 <div align="center">
-  <img alt="feito por Maykon Sousa" src="https://img.shields.io/badge/autor-Maykon%20Sousa-brightgreen"/>
-  <img  src="https://img.shields.io/badge/Back--End-NodeJS-brightgreen"/>
-  <img  src="https://img.shields.io/badge/Front--End-ReactJS-brightgreen"/>
-  <img  src="https://img.shields.io/badge/Mobile-React%20Native-brightgreen"/>
-  
-  
-</div>
+  #### Aplicação completa para conectar Ongs que precisam de ajuda a usuários dispostos a ajudar
 
 
+  ![](https://img.shields.io/badge/autor-Maykon%20Sousa-brightgreen)
+  ![](https://img.shields.io/badge/Back--End-NodeJS-brightgreen)
+  ![](https://img.shields.io/badge/Front--End-ReactJS-brightgreen)
+  ![](https://img.shields.io/badge/Mobile-React%20Native-brightgreen)
+</div> 
 ## Recursos
 
 - **React Js** — Lib Javascript para construir a plataforma web
