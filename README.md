@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-  <img alt="Made by Maykon Sousa" src="https://img.shields.io/badge/criado%20por-Maykon%20Sousa-red"/>
+  <img alt="Made by Maykon Sousa" src="https://img.shields.io/badge/criado%20por-Maykon%20Sousa-brightgreen"/>
   <img alt="Language count" src="https://img.shields.io/badge/Back--End-NodeJS-brightgreen"/>
   <img alt="Language count" src="https://img.shields.io/badge/Front--End-ReactJS-brightgreen"/>
   <img alt="Language count" src="https://img.shields.io/badge/Mobile-React%20Native-brightgreen"/>
