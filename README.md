@@ -13,6 +13,11 @@
   ![](https://img.shields.io/badge/Mobile-React%20Native-brightgreen)
 </div> 
 
+## Certificado
+![certificado](certificado.png)
+
+
+
 ## Recursos
 
 - **React Js** — Lib Javascript para construir a plataforma web
